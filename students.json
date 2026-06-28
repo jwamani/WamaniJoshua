@@ -1,0 +1,13 @@
+{
+    "24-U-0001": {
+        "address": "Ntinda",
+        "contact": "0789833898",
+        "program": "Software Engineering"
+    },
+    "24-U-0002": {
+        "address": "San Francisco",
+        "contact": "0700010030",
+        "program": "Computer Science",
+        "enrolled": "2026-06-28"
+    }
+}

@@ -1,0 +1,29 @@
+2026-06-28 19:26:05 | INFO     | === Student Management System started ===
+2026-06-28 19:26:12 | DEBUG    | Menu choice selected: 1
+2026-06-28 19:26:12 | INFO     | User initiated: Add Student
+2026-06-28 19:27:24 | ERROR    | Failed to read JSON: Expecting value: line 1 column 1 (char 0)
+2026-06-28 19:27:24 | ERROR    | Unexpected error in add_student: Expecting value: line 1 column 1 (char 0)
+2026-06-28 19:27:24 | DEBUG    | add_student() routine completed.
+2026-06-28 19:28:46 | DEBUG    | Menu choice selected: 2
+2026-06-28 19:28:46 | INFO     | User initiated: View All Students
+2026-06-28 19:28:46 | INFO     | View all: displayed 1 records.
+2026-06-28 19:28:46 | DEBUG    | view_all_students() routine completed.
+2026-06-28 19:29:07 | DEBUG    | Menu choice selected: 4
+2026-06-28 19:29:07 | INFO     | User initiated: Update Student
+2026-06-28 19:29:09 | WARNING  | Update failed: Registration number must match pattern 2x-U-xxxx e.g. 24-U-00001.
+2026-06-28 19:29:09 | DEBUG    | update_student() routine completed.
+2026-06-28 19:29:47 | DEBUG    | Menu choice selected: 4
+2026-06-28 19:29:47 | INFO     | User initiated: Update Student
+2026-06-28 19:30:06 | INFO     | JSON file initialised: students.json
+2026-06-28 19:30:25 | INFO     | Student updated: 24-U-0001
+2026-06-28 19:30:25 | DEBUG    | update_student() routine completed.
+2026-06-28 19:31:00 | DEBUG    | Menu choice selected: 1
+2026-06-28 19:31:00 | INFO     | User initiated: Add Student
+2026-06-28 19:31:25 | WARNING  | Add student failed: Date must be in YYYY-MM-DD format (e.g. 2002-05-14).
+2026-06-28 19:31:25 | DEBUG    | add_student() routine completed.
+2026-06-28 19:31:30 | DEBUG    | Menu choice selected: 1
+2026-06-28 19:31:30 | INFO     | User initiated: Add Student
+2026-06-28 19:32:37 | INFO     | Student added: 24-U-0002 (John Doe)
+2026-06-28 19:32:37 | DEBUG    | add_student() routine completed.
+2026-06-28 19:33:22 | DEBUG    | Menu choice selected: 6
+2026-06-28 19:33:22 | INFO     | === Student Management System exited by user ===
